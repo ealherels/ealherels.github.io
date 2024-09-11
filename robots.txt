@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ealherels.github.io/sitemap.html.gz
+Sitemap: https://ealherels.github.io/app/sitemap.html.gz
+Sitemap: https://ealherels.github.io/assets/sitemap.html.gz
+Sitemap: https://ealherels.github.io/css/sitemap.html.gz
+Sitemap: https://ealherels.github.io/includes/sitemap.html.gz
+Sitemap: https://ealherels.github.io/item/sitemap.html.gz
+Sitemap: https://ealherels.github.io/src/sitemap.html.gz
